@@ -237,15 +237,15 @@ span.glyphicon-plus {
 }
 
 .glyphicon-plus:before {
-    content: "\\002b";
+    content: "\002b";
 }
 
 .glyphicon-ok:before {
-    content: "\\2713" !important;
+    content: "\2713" !important;
 }
 
 .glyphicon-remove:before {
-    content: "\\2715";
+    content: "\2715";
 }
 
 @keyframes searchingload {
